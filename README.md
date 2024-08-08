@@ -52,12 +52,6 @@ To run the project locally, follow these steps:
 - `portfolio.html`: Portfolio page showcasing the institute's achievements.
 - `s1.html`, `s2.html`, `s3.html`: Additional pages for specific sections.
 
-## Screenshots
-
-![Homepage Screenshot](1.JPG)
-
-*Screenshot of the homepage showcasing the responsive design and navigation menu.*
-
 ## Contribution Guidelines
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
