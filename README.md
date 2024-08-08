@@ -1,40 +1,62 @@
 # Institute-Project
-I developed a user-friendly and comprehensive website for one institute to enhance online engagement and streamline information access.
 
-Institute Website
-This repository contains the source code for an institute website developed using HTML, CSS, JavaScript, and PHP. The website is designed to provide information about the institute, its courses, and other related details.
+## Project Overview
 
-Live Demo
-You can view the live demo of the website at https://darwinst.netlify.app/
+I developed a user-friendly and comprehensive website for an educational institute to enhance online engagement and streamline information access. This project aims to provide detailed information about the institute, its courses, and other related details, making it easy for users to navigate and find what they need.
 
-Technologies Used
-HTML5
-CSS3
-SCSS
-JavaScript
-PHP
-Features
-Responsive design for optimal viewing on various devices
-Navigation menu for easy access to different sections
-Course catalog with detailed information
-Contact form for inquiries
-About page providing institute details
-Dynamic content rendering using PHP
-Getting Started
+## Live Demo
+
+You can view the live demo of the website at [https://darwinst.netlify.app/](https://darwinst.netlify.app/)
+
+## Technologies Used
+
+- **HTML5**: For structuring the web pages.
+- **CSS3**: For styling the web pages.
+- **SCSS**: For more efficient and organized styling.
+- **JavaScript**: For adding interactivity to the web pages.
+- **PHP**: For dynamic content rendering and backend processing.
+
+## Features
+
+- **Responsive Design**: The website is optimized for viewing on various devices, ensuring a seamless experience across desktops, tablets, and smartphones.
+- **Navigation Menu**: Provides easy access to different sections of the website.
+- **Course Catalog**: Detailed information about the courses offered by the institute.
+- **Contact Form**: Allows users to send inquiries directly through the website.
+- **About Page**: Provides detailed information about the institute.
+- **Dynamic Content Rendering**: Uses PHP to dynamically render content based on user interactions.
+
+## Getting Started
+
 To run the project locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/institute-website.git
-Navigate to the project directory: cd institute-website
-Open the index.html file in your preferred web browser.
-Note: Since this project utilizes PHP, you'll need to set up a local web server environment (e.g., XAMPP, WAMP) to run the PHP components correctly.
+1. **Clone the repository**:
+   ```
+   git clone https://github.com/your-username/institute-website.git
+   ```
+2. **Navigate to the project directory**:
+   ```
+   cd institute-website
+   ```
+3. **Open the `index.html` file** in your preferred web browser.
 
-Contributing
+## Folder Structure
+
+- `css/`: Contains CSS files for styling the website.
+- `img/`: Contains images used in the website.
+- `js/`: Contains JavaScript files for adding interactivity.
+- `lib/`: Contains external libraries used in the project.
+- `scss/`: Contains SCSS files for more organized styling.
+- `about.html`: About page of the institute.
+- `contact.html`: Contact page with a form for inquiries.
+- `index.html`: Home page of the website.
+- `portfolio.html`: Portfolio page showcasing the institute's achievements.
+- `s1.html`, `s2.html`, `s3.html`: Additional pages for specific sections.
+
+## Contribution Guidelines
+
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License.
+## Acknowledgments
 
-Acknowledgments
-Font Awesome for icons
-Google Fonts for typography
-Feel free to customize this README file according to your project's specific details and requirements.
+- **Font Awesome**: For icons.
+- **Google Fonts**: For typography.
