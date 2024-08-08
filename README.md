@@ -54,7 +54,7 @@ To run the project locally, follow these steps:
 
 ## Screenshots
 
-![Homepage Screenshot](<img width="954" alt="image" src="https://github.com/user-attachments/assets/6b8b5a1b-445f-461d-9919-6bffb47fcaee">)
+![Homepage Screenshot](JPG File (.jpg))
 
 *Screenshot of the homepage showcasing the responsive design and navigation menu.*
 
