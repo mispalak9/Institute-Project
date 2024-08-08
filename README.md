@@ -4,6 +4,8 @@
 
 I developed a user-friendly and comprehensive website for an educational institute to enhance online engagement and streamline information access. This project aims to provide detailed information about the institute, its courses, and other related details, making it easy for users to navigate and find what they need.
 
+https://github.com/mispalak9/Institute-Project/blob/7f4984cdc064836d8b32eeb8bc0b38508b1111bf/1.jpg
+
 ## Live Demo
 
 You can view the live demo of the website at [https://darwinst.netlify.app/](https://darwinst.netlify.app/)
