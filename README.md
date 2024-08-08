@@ -54,7 +54,7 @@ To run the project locally, follow these steps:
 
 ## Screenshots
 
-![Homepage Screenshot](JPG File (.jpg))
+![Homepage Screenshot](1.JPG)
 
 *Screenshot of the homepage showcasing the responsive design and navigation menu.*
 
